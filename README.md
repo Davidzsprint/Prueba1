@@ -10,7 +10,7 @@ David Calderon
 
 
 # Descripción temática de la web:
-Esta aplicación consiste dar informacion relacionada con el juego League of Lenguend. Mostrar estadisticas de cada heroe, como es la vida, el ataque, defensa, mana o energia. Cambio de estaditicas e informacion de nuevos heroes.
+Esta aplicación consiste dar informacion relacionada con el juego League of Lenguend. Mostrar estadisticas de cada heroe, como es la vida, el ataque, defensa, mana o energia. Cambio de estaditicas e informacion de nuevos heroes y clasificacion del usuario.
 
 
 # Parte Pública:
@@ -23,13 +23,13 @@ Esta aplicación consiste dar informacion relacionada con el juego League of Len
 
 - Consultar heroe segun su dificultdad de manejo (nivel de dificultdad).
 
-- Mostrar del usuario (nick, nombre, apellidos, edad, region, nacionalidad).
+- Mostrar informacion del usuario (nick, nombre, apellidos, edad, region, coins dentro del juego, nacionalidad).
 
 # Parte Privada:
 
-- Un usuario podrá crear un alquiler o renting online, el usuario podra modificar el contrato (extender el alquiler/renting)
+- Un usuario podrá cambiar de region (europa/asia/oceania)
 
-- Un usuario podrá darse de baja tanto del alquiler como del renting.(Penalizacion)
+- Un usuario tendra una lista de 5 heroes que el elija como favoritos o personajes que suele utilizar.
 
 - Se creará una lista de usuarios con impagos de alquiler o renting.
 
