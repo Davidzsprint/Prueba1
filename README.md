@@ -3,9 +3,11 @@ EQUIPO:
 
 David Beltrán Sánchez 
 
+Rubén Beltrán Sánchez
+
 David Calderon
 
-Rubén Beltrán Sánchez
+
 
 # Descripción temática de la web:
 Esta aplicación consiste dar informacion relacionada con el juego League of Lenguend. Mostrar estadisticas de cada heroe, como es la vida, el ataque, defensa, mana o energia. Cambio de estaditicas e informacion de nuevos heroes.
