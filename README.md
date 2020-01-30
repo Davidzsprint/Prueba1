@@ -17,13 +17,13 @@ Esta aplicación consiste dar informacion relacionada con el juego League of Len
 
 - Mostrar cada heroe (nombre, posicion, vida, ataque, defensa, mana, energia).
 
-- Se podrá consultar las caracteristicas de cada heroe.
+- consultar liga del usuario (nombre de liga, posicion en la liga (hierro, bronce, plata, oro, diamante, platino))
 
 - Consultar heroe segun posicion  (adc, support, top, mid, jungla).
 
 - Consultar heroe segun su dificultdad de manejo (nivel de dificultdad).
 
-- Mostrar datos sobre el arrendatario del vehículo (DNI, nombre, apellidos, edad, numero de años con licencia de conducir).
+- Mostrar del usuario (nick, nombre, apellidos, edad, region, nacionalidad).
 
 # Parte Privada:
 
