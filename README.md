@@ -31,8 +31,8 @@ Esta aplicación consiste dar informacion relacionada con el juego League of Len
 
 - Un usuario tendra una lista de 5 heroes que el elija como favoritos o personajes que suele utilizar.
 
-- Se creará una lista de usuarios con impagos de alquiler o renting.
+- Un usuario tendra la posibilidad de inscribirse a torneos que organiza Gametech.
 
 - Existirá un usuario administrador que se encargara de gestionar los alquieres/rentings (añadir nuevos vehículos, darlos de baja,           modificar detalles del contrato de alquiler o renting)
 # Servicio interno:
-- Enviar una notificación a traves e-mail a los usuarios en caso de lanzarse un nuevo personaje, proporcionando y caracteristicas de dicho heroe.
+- Enviar una notificación a traves e-mail a los usuarios en caso de lanzarse un nuevo personaje, proporcionando caracteristicas de dicho heroe.
