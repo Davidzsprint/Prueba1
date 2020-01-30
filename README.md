@@ -27,7 +27,7 @@ Esta aplicación consiste dar informacion relacionada con el juego League of Len
 
 # Parte Privada:
 
-- Un usuario podrá cambiar de region (europa/asia/oceania)
+- Un usuario podrá cambiar de region (europa norte, europa sur/ asia/ oceania)
 
 - Un usuario tendra una lista de 5 heroes que el elija como favoritos o personajes que suele utilizar.
 
