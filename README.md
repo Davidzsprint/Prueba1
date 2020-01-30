@@ -13,9 +13,9 @@ Esta aplicación consiste dar informacion relacionada con el juego League of Len
 
 # Parte Pública:
 
-- Mostrar características de alquiler (precio, repostaje, tipo de seguro del vehículo, plazos de pago, numero de dias de alquiler, datos   del arrendatario).
+- Mostrar cada heroe (nombre, posicion, vida, ataque, defensa, mana, energia).
 
-- Se podrá consultar disponibilidad de vehículos tanto en renting como en alquiler.
+- Se podrá consultar las caracteristicas de cada heroe.
 
 - Consultar planes de renting  (nº de años de contratacion del vehículo, nº de mensualidades , precio/mensualiades, empresa               o particular).
 
