@@ -17,9 +17,9 @@ Esta aplicación consiste dar informacion relacionada con el juego League of Len
 
 - Se podrá consultar las caracteristicas de cada heroe.
 
-- Consultar planes de renting  (nº de años de contratacion del vehículo, nº de mensualidades , precio/mensualiades, empresa               o particular).
+- Consultar heroe segun posicion  (adc, support, top, mid, jungla).
 
-- Consultas sobre el vehículo (marca, modelo, tipo de combustible, numero de plazas, matricula, ubiacion, estado de alquiler(ocupado o     no ocupado)).
+- Consultar heroe segun su dificultdad de manejo (nivel de dificultdad).
 
 - Mostrar datos sobre el arrendatario del vehículo (DNI, nombre, apellidos, edad, numero de años con licencia de conducir).
 
