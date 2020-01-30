@@ -33,6 +33,6 @@ Esta aplicación consiste dar informacion relacionada con el juego League of Len
 
 - Un usuario tendra la posibilidad de inscribirse a torneos que organiza Gametech.
 
-- Existirá un usuario administrador que se encargara de gestionar los alquieres/rentings (añadir nuevos vehículos, darlos de baja,           modificar detalles del contrato de alquiler o renting)
+- Existirá un usuario administrador que se encargara de gestionar los heroes (añadir, borrar y mofificar caracteristicas) ademas de gestionar los torneos organizados)
 # Servicio interno:
 - Enviar una notificación a traves e-mail a los usuarios en caso de lanzarse un nuevo personaje, proporcionando caracteristicas de dicho heroe.
